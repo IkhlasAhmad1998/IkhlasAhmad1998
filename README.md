@@ -10,13 +10,13 @@ I work with data to support decision-making through deep analysis and intuitive 
 
 ### 🔧 Skills & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</div>
+| Tool         | Logo                                                                 |
+| ------------ | -------------------------------------------------------------------- |
+| **SQL Server**  | <p align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Logo" width="60"/></a></p> |
+| **PostgreSQL**  | <p align="center"><a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="40"/></a></p> |
+| **Excel**       | <p align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel Logo" width="40"/></a></p> |
+| **Power BI**    | <p align="center"><a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="40"/></a></p> |
+| **Python**      | <p align="center"><a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="120"/></a></p> |
 
 ---
 
